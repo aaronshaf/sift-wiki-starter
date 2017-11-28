@@ -2,4 +2,4 @@
 
 Hello, world.
 
-Link to [another page](another-page.md).
+Link to [another page](another-page).
