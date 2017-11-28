@@ -1,10 +1,20 @@
-# sift-wiki-starter
+## Getting started
 
-## Build command
+### Replace PUBLIC_URL in .env
 
-`git clone https://github.com/aaronshaf/wiki.git && rm -rf wiki/.git && mv -n -f
-wiki/* . && npm i && node scripts/index.js`
+```
+PUBLIC_URL=https://[replace-me].com/
+```
 
-## Publish directory
+### Build command
 
-`build`
+```
+git clone https://github.com/aaronshaf/wiki.git && rm -rf wiki/.git && mv -n -f
+wiki/* . && npm i && node scripts/index.js
+```
+
+### Publish directory
+
+```
+build
+```
